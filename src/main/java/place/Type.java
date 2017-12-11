@@ -1,6 +1,0 @@
-package place;
-
-public enum Type {
-
-    PIZZA,SUSHI,FASTFOOD,POLISHKITCHEN,ITALY,MEDITERRANEAN,ASIAN,EXOTIC;
-}

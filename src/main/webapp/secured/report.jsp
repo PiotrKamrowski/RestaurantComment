@@ -1,4 +1,4 @@
-<%@ page import="place.Place" %><%--
+<%@ page import="restaurantcomment.place.Place" %><%--
   Created by IntelliJ IDEA.
   User: Piotr
   Date: 04.12.2017
@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>check</title>
+    <title>Zareportuj</title>
 </head>
 <body>
 

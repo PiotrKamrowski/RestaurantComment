@@ -10,7 +10,8 @@
     miasto: <input type="text" name="city" value=""/><br/>
     ulica: <input type="text" name="street" value=""/><br/>
     numer: <input type="text" name="number" value=""/><br/>
-    <select name ="delivery">
+    adres www <input type="text" name="www" value=""/><br/>
+    opcja dostawy: <select name ="delivery">
         <option value="true">Tak</option>
         <option value="false">Nie</option>
     </select>
@@ -23,7 +24,8 @@
         <option value="MEDITERRANEAN">Kuchnia Śródziemnomorska</option>
         <option value="ASIAN">Kuchnia Azjatycka</option>
         <option value="EXOTIC">Kuchnia Egzotyczna</option>
-    </select>
+    </select><br/>
+
     <input type="submit" name="submit" value="Dodaj"/>
 
 
@@ -32,7 +34,6 @@
 </form>
 
 <button onclick="window.location.href='/secured/main.jsp'">Powrót</button> <br/>
-
 
 </body>
 </html>
