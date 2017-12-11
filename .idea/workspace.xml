@@ -7,83 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d5d7605-47f0-4a83-a139-86d8eb33edf2" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/RestaurantComment.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/place/AddPlaceServlet.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/place/DetailPlaceServlet.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/place/Place.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/place/PlaceDAO.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/place/Type.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/place/VIewPlacesSpecyficServlet.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/place/ViewPlacesServlet.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/restaurantcomment/services/CharacterEncodingFilter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/restaurantcomment/services/CheckLoginFilter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/restaurantcomment/services/EntityManagerFilter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/restaurantcomment/services/EntityManagerProvider.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/restaurantcomment/services/LogingServlet.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/restaurantcomment/services/Report.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/restaurantcomment/services/ReportDAO.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/restaurantcomment/services/ReportServlet.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/review/AddReviewServlet.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/review/DeleteReviewServlet.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/review/Mark.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/review/Review.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/review/ReviewDAO.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/user/AddUserServlet.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/user/AddUserViewServlet.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/user/DeleteUserServlet.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/user/EditUserServlet.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/user/Gender.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/user/LogOutUserServlet.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/user/User.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/user/UserDAO.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/user/UserDetailServlet.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/user/UserListServlet.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/user/test.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/add_user_view_r.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/add_user_view_rd.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/login_page_r.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/secured/AddReview.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/secured/User_detail.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/secured/add_place_r.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/secured/add_review_succes.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/secured/add_sucess.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/secured/detailPlace.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/secured/listOfUsers.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/secured/listplaces.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/secured/listplacesParam.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/RestaurantComment/add_user_view_r.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/RestaurantComment/add_user_view_rd.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/RestaurantComment/login_page_r.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/RestaurantComment/secured/AddReview.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/RestaurantComment/secured/User_detail.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/RestaurantComment/secured/add_place_r.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/RestaurantComment/secured/add_review_succes.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/RestaurantComment/secured/add_sucess.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/RestaurantComment/secured/detailPlace.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/RestaurantComment/secured/listOfUsers.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/RestaurantComment/secured/listplaces.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/RestaurantComment/secured/listplacesParam.jsp" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/c7cd339a-1771-43d5-ae79-0d2a4d7464e8.xml" afterPath="$PROJECT_DIR$/.idea/dataSources/c7cd339a-1771-43d5-ae79-0d2a4d7464e8.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/restaurantcomment/place/Test.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/add_user_view.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/add_user_view.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/secured/add_place.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/secured/add_place.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/secured/delete.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/secured/delete.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/secured/edit_user.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/secured/edit_user.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/secured/main.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/secured/main.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/secured/report.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/secured/report.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/RestaurantComment/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/target/RestaurantComment/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/RestaurantComment/add_user_view.jsp" afterPath="$PROJECT_DIR$/target/RestaurantComment/add_user_view.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/RestaurantComment/index.jsp" afterPath="$PROJECT_DIR$/target/RestaurantComment/index.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/RestaurantComment/secured/add_place.jsp" afterPath="$PROJECT_DIR$/target/RestaurantComment/secured/add_place.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/RestaurantComment/secured/delete.jsp" afterPath="$PROJECT_DIR$/target/RestaurantComment/secured/delete.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/RestaurantComment/secured/edit_user.jsp" afterPath="$PROJECT_DIR$/target/RestaurantComment/secured/edit_user.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/RestaurantComment/secured/main.jsp" afterPath="$PROJECT_DIR$/target/RestaurantComment/secured/main.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/RestaurantComment/secured/report.jsp" afterPath="$PROJECT_DIR$/target/RestaurantComment/secured/report.jsp" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -117,11 +43,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="add_place.jsp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="add_place.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/secured/add_place.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="250">
               <caret line="18" column="25" lean-forward="false" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -162,7 +98,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/restaurantcomment/place/ViewPlacesServlet.java" />
         <option value="$PROJECT_DIR$/src/main/java/restaurantcomment/place/VIewPlacesSpecyficServlet.java" />
         <option value="$PROJECT_DIR$/src/main/java/restaurantcomment/review/AddReviewServlet.java" />
         <option value="$PROJECT_DIR$/src/main/java/restaurantcomment/review/DeleteReviewServlet.java" />
@@ -213,6 +148,7 @@
         <option value="$PROJECT_DIR$/src/main/webapp/secured/list_places.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/secured/list_places_param.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/secured/add_place.jsp" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -236,7 +172,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="532" />
     <option name="y" value="15" />
     <option name="width" value="1143" />
@@ -299,6 +235,15 @@
               <item name="RestaurantComment" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="restaurantcomment" type="462c0819:PsiDirectoryNode" />
+              <item name="place" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RestaurantComment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestaurantComment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -345,6 +290,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="add_unversioned_files" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -656,15 +602,16 @@
       <workItem from="1512503222746" duration="155000" />
       <workItem from="1512665147983" duration="10793000" />
       <workItem from="1513010175235" duration="55000" />
-      <workItem from="1513010318191" duration="12000" />
+      <workItem from="1513010318191" duration="347000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="148116000" />
+    <option name="totallyTimeSpent" value="148451000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -682,16 +629,17 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45945945" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40810812" sideWeight="0.4974293" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40810812" sideWeight="0.4974293" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="FAQ Robot" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15231362" sideWeight="0.50913244" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20308483" sideWeight="0.49086758" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20308483" sideWeight="0.49086758" order="0" side_tool="false" content_ui="combo" />
       <window_info id="MaxCompute Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -700,7 +648,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45945945" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -757,7 +704,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/restaurantcomment/place/PlaceDAO.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/restaurantcomment/review/ReviewDAO.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/restaurantcomment/service/CharacterEncodingFilter.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/restaurantcomment/service/EntityManagerFilter.java" />
@@ -843,7 +789,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/restaurantcomment/place/Place.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/restaurantcomment/place/DetailPlaceServlet.java" />
     <entry file="file://$PROJECT_DIR$/src/main/webapp/secured/add_place_error.jsp" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/restaurantcomment/place/Test.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/restaurantcomment/place/AddPlaceServlet.java" />
     <entry file="das://table:/6333d7a4/c7cd339a-1771-43d5-ae79-0d2a4d7464e8/restaurant.places" />
     <entry file="file://$PROJECT_DIR$/src/main/webapp/secured/main.jsp">
@@ -862,6 +807,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="18" column="25" lean-forward="false" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/restaurantcomment/place/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
           <folding />
         </state>
       </provider>
